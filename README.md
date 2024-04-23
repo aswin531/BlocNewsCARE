@@ -1,9 +1,9 @@
 # NEwS App
 
  ==> Key Features
-     Bloc
-     Clean Architecture
-     Dio
-     Api
+ ==> Bloc
+ ==> Clean Architecture
+ ==>Dio
+ ==>Api
 
 
